@@ -32,9 +32,3 @@ The E-Store Management System is designed to provide a user-friendly interface f
    - View Balance: Customers can check their account balance.
    - Withdraw/Deposit Money: Customers can manage their account balance.
 
-## How to Run
-1. Open the terminal or command prompt.
-2. Navigate to the directory containing the project files.
-3. Compile the program using a C compiler (e.g., `gcc`).
-   ```bash
-   gcc e_store_management.c -o e_store_management
