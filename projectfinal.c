@@ -11,7 +11,7 @@
 						--> Three options are provided 
 							1) Exit
 							2) View items
-								--> User can then either add a product, delete a product or exit the program
+								--> User can then either add a product, update a product or exit the program
 							3) View Customers
 								--> All the customer details are printed on the screen.
 					3) If the user is a customer.
