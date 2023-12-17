@@ -18,9 +18,12 @@ The E-Store Management System is designed to provide a user-friendly interface f
 ### For Employees
 1. **Login:** Employees can log in using their credentials.
 2. **View Items:** Employees can view the available items in the store.
+   - Edit Product:
+        * Increase Quantity
+        * Decrease Quantity
    - Add Product: Employees can add a new product to the store.
    - Delete Product: Employees can remove a product from the store.
-3. **View Customers:** Employees can view details of all registered customers.
+4. **View Customers:** Employees can view details of all registered customers.
 
 ### For Customers
 1. **Authentication:**
