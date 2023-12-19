@@ -8,6 +8,11 @@ The E-Store Management System is a simple command-line application developed in 
 - Syed Muneeb ur Rehman
 - Yesaullah Sheikh
 
+## Individual Contribution
+* int main(), Formattion by Yesaullah
+* Costumer , Employee & Stock Functions by Syed Muneeb Ur Rehman
+* Purchasing , Updating & ATM Functions by Hamza Sheikh 
+
 ## Batch and Department
 - Batch: 2023
 - Department: BAI-1A
