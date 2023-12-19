@@ -1,5 +1,3 @@
-# Proposal Idea
-
 ## Project Overview
 This project aims to create a user-friendly C-language program for the management system of an E-store. The program caters to both the employees and the customers. For customers, it offers functionalities such as login/signup options, viewing items available in the store, buying items, and viewing the account balance. The user also gets to submit or withdraw money from his account. As for the employees, first, they will be asked to log in to the system, then they can view items in the store, add items, update the already present items, and they can also choose to view all the customers who have signed up for the e-store. Exception handling is added where it had to be added to make the code more efficient.
 
